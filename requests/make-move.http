@@ -1,0 +1,7 @@
+POST http://localhost:5198/game
+Content-Type: application/json
+
+{
+    "squareNumber": 6,
+    "id": "096f63d6-9b7f-4291-92d4-86758d1f16ed"
+}

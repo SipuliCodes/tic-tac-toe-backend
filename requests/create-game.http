@@ -1,0 +1,2 @@
+GET http://localhost:5198/game
+Accept: application/json
