@@ -66,7 +66,7 @@ namespace TicTacToe.Models {
                 return gameBoard[2].SquareSymbol;
             }
 
-            if (_timesPlayed <= 9)
+            if (_timesPlayed >= 9)
             {
                 winner = "draw";
             }
